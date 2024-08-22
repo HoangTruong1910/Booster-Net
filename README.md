@@ -21,7 +21,7 @@ Binary segmentation of small intestine polyps is a crucial task in medical image
 ![Residual_Block](https://github.com/user-attachments/assets/190be075-ba6e-41b1-8146-bf246f5c57d6)
 
 
-## Bottle and Inverted Residual Block
+## Bottleneck and Inverted Residual Block
 
 ![Bottle_Inverted_Residual_Block](https://github.com/user-attachments/assets/a770b534-b0bd-4843-89d5-9829020b1e0e)
 
