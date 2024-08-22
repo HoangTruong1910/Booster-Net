@@ -14,8 +14,7 @@ Binary segmentation of small intestine polyps is a crucial task in medical image
 
 ## Booster Net Architecture
 
-![Booster_Net](https://github.com/user-attachments/assets/cf00429d-0c30-43f6-bf84-69fb1ce9b3de)
-
+![Booster_Net](https://github.com/user-attachments/assets/408301a9-e29e-43de-ab98-ac1f69e191b0)
 
 ## Residual Block
 
