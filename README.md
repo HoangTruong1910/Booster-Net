@@ -39,7 +39,7 @@ Binary segmentation of small intestine polyps is a crucial task in medical image
 
 ![image](https://github.com/user-attachments/assets/b757c5e6-d571-42ed-8615-a809f212151b)
 
-## Table Comparing 
+## Comparison Table
 
 | Method | Dice Coefficient (%) | Jaccard Index (%) |
 |----------|----------|----------|
