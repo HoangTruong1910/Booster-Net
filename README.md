@@ -42,3 +42,11 @@ Binary segmentation of small intestine polyps is a crucial task in medical image
 - **Image Segmentation** : The images segmentation use DCGC Deep Net
 
 ![image](https://github.com/user-attachments/assets/5c42411a-c6da-430f-87e4-f56750c79640)
+
+## Table Comparing 
+
+| Model | Dice Coefficient | Jaccard Index (IoU) |
+|----------|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
