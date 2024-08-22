@@ -2,9 +2,13 @@
 ## Overview
 This repository contains the implementation of binary segmentation models for detecting polyps in small intestine images. The project leverages the Kvasir dataset, which provides a rich collection of annotated endoscopic images. Accurate segmentation of polyps is crucial for early diagnosis and treatment of gastrointestinal diseases.
 
+## Project Description 
+Binary segmentation of small intestine polyps is a crucial task in medical image analysis, aiming to accurately delineate polyp regions from endoscopic images. Using the Kvasir-SEG dataset, which contains high-quality annotated images of various polyp types, we focus on developing deep learning models that can efficiently segment polyps from the surrounding tissue. The challenge lies in handling the diverse appearance, size, and shape of polyps, as well as variations in image quality and lighting conditions. By employing advanced neural network architectures and techniques such as data augmentation, we strive to enhance the model's generalization capability, leading to precise and reliable segmentation results that can aid in the early detection and treatment of gastrointestinal diseases.
+
 ## Dataset
 - **Dataset**: Kvasir SEG
 - **Description**: The Kvasir dataset includes a variety of annotated images from gastrointestinal examinations. For this project, we focus on the polyp images, where each image is paired with a ground truth mask indicating the polyp region.
+
 ## Approach
 - The approach involves training deep learning models to perform binary segmentation of polyps in the provided images. The models are evaluated based on metrics like Dice coefficient, Intersection over Union (IoU), and Accuracy to ensure reliable segmentation results.
 
