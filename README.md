@@ -51,6 +51,6 @@ Binary segmentation of small intestine polyps is a crucial task in medical image
 | OURS (DCGC Deep Net) | 92.25 | 87.46 |
 | OURS (Booster Net) | 93.33 | 88.57 |
 
-- **Image Segmentation** : The images segmentation use DCGC Deep Net
+- **Image Segmentation** : The images segmentation use Booster Net
 
 ![image](https://github.com/user-attachments/assets/5c42411a-c6da-430f-87e4-f56750c79640)
